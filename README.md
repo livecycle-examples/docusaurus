@@ -3,6 +3,7 @@
   <a href="https://docusaurus.io"><img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus"></a>
 </h1>
 
+
 <p align="center">
   <a href="https://twitter.com/docusaurus"><img src="https://img.shields.io/twitter/follow/docusaurus.svg?style=social" align="right" alt="Twitter Follow" /></a>
   <a href="#backers" alt="sponsors on Open Collective"><img src="https://opencollective.com/Docusaurus/backers/badge.svg" /></a>
@@ -112,4 +113,4 @@ The Docusaurus documentation (e.g., `.md` files in the `/docs` folder) is [Creat
 
 [![Rocket Validator logo](./admin/img/rocketvalidator-logo.png)](https://rocketvalidator.com/)
 
-[Rocket Validator](https://rocketvalidator.com/) helps us find HTML markup or accessibility issues.
+[Rocket Validator](https://rocketvalidator.com/) helps us find HTML markup or accessibility issues.  
