@@ -54,6 +54,9 @@ npx @docusaurus/init@latest init [name] [template]
 
 Example:
 
+
+
+
 ```bash
 npx @docusaurus/init@latest init my-website classic
 ```
