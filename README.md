@@ -36,6 +36,9 @@ Docusaurus is a project for building, deploying, and maintaining open source pro
 
 
 
+
+
+
 - **Localizable**
 
 > Docusaurus ships with [localization support](https://docusaurus.io/docs/i18n/introduction) via CrowdIn. Empower and grow your international community by translating your documentation.
